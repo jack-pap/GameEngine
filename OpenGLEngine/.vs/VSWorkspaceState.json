@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Libraries",
-    "\\Libraries\\include",
-    "\\Libraries\\include\\glad"
+    ""
   ],
-  "SelectedNode": "\\Libraries\\include\\glad\\glad.h",
+  "SelectedNode": "\\OpenGLEngine.sln",
   "PreviewInSolutionExplorer": false
 }
